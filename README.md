@@ -24,7 +24,7 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/DebreeBaptiste"><img srcset="https://github-readme-stats.vercel.app/api?username=DebreeBaptiste&show_icons=true&theme=dark)" alt="DebreeBaptiste's GitHub stats"/></a>
+<a href="http://www.github.com/DebreeBaptiste"><img src="https://github-readme-stats.vercel.app/api?username=DebreeBaptiste&show_icons=true&theme=dark)" alt="DebreeBaptiste's GitHub stats"/></a>
 
 
 <!---
