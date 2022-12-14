@@ -1,7 +1,7 @@
 <img align="center" width="1268" alt="Capture d’écran 2022-02-24 à 03 49 09" src="https://user-images.githubusercontent.com/82203465/155448220-750921d4-0483-44e7-b774-bd3aa5bef649.png">
 
 <h2 align="center">Hi there, I'm Baptiste</br>
-<em>JavaScript Web Developer</em></h2>
+<em>Web Developer</em></h2>
 
 <p>I'm based in <strong>France</strong>. I'm ready for discussions and making new projects.</p>
 
