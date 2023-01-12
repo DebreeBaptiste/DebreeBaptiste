@@ -25,7 +25,9 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/DebreeBaptiste"><img src="https://github-readme-stats.vercel.app/api?username=DebreeBaptiste&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DebreeBaptiste's GitHub stats" /></a>
+<a href="http://www.github.com/DebreeBaptiste"><img src="https://github-readme-stats.vercel.app/api?username=DebreeBaptiste&show_icons=true&theme=dark" alt="DebreeBaptiste's GitHub stats" /></a>
+
+
                  
 <!---
 DebreeBaptiste/DebreeBaptiste is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
